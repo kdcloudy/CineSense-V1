@@ -1,2 +1,2 @@
 # CineSense
-an web app project for my university
+a web app project for DBMS
